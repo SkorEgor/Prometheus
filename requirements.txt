@@ -1,0 +1,7 @@
+uvicorn
+asyncio
+aiohttp
+starlette
+prometheus_client
+prometheus-async
+a2wsgi
